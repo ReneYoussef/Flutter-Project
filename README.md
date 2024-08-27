@@ -1,16 +1,15 @@
 # ielect
 
-A new Flutter project.
+Online Voting App for Lebanon
 
-## Getting Started
+This mobile app facilitates online voting for municipal and parliamentary elections in Lebanon. Built with Flutter and Firebase, it aims to make the voting process more accessible and secure for all citizens.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+  Secure Online Voting: Robust authentication and real-time data management using Firebase.
+  Cross-Platform: Developed with Flutter to work seamlessly on both Android and iOS devices.
+   Vote in municipal elections
+  Real-time Results: View election results as votes are tallied.
+  
+Technologies Used
+  Flutter: Cross-platform mobile development.
+  Firebase: Authentication, database, and cloud storage.
